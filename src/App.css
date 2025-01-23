@@ -1,0 +1,30 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.error {
+  color: red;
+}
+
+.card-container {
+  margin-top: 20px;
+}
+
+.card {
+  max-width: 200px;
+}
+
+.remaining {
+  margin-top: 10px;
+}
